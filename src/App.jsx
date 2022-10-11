@@ -19,6 +19,9 @@ function App() {
       <Album />
       <Album />
       <Album />
+      <Album />
+      <Album />
+      <Album />
     </div>
   )
 }
